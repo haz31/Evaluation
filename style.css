@@ -1,0 +1,39 @@
+nav {
+	display: flex;
+	justify-content: space-around;	
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-top: 20px;
+	
+}
+
+
+header{
+	background-color: black;
+
+}
+
+.Simplon {
+	margin-top: 10px;
+	width: 3%;
+	height: 3%;
+}
+
+.button
+{
+	background-color: red;
+	color: white;
+	text-decoration: none;
+}
+
+h5 {
+	color: #FFFFFF
+}
+
+section{
+	background-color: red;
+}
+
